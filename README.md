@@ -39,10 +39,11 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+![psytech imagem](https://github.com/user-attachments/assets/a5fb1610-62dd-4824-a802-e1efb5946fba)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+
+
+
 </p>
 
 # Objetivo do Projeto
