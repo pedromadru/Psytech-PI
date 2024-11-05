@@ -47,7 +47,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+O objetivo deste trabalho é analisar a estrutura e organização da empresa PsyTech, especializada na fabricação e comercialização de dispositivos móveis, com foco na identificação de possíveis falhas e inconsistências nos processos internos, gestão de recursos e comunicação organizacional. A partir dessa análise, o trabalho visa propor soluções e melhorias que possam otimizar a operação da empresa, aprimorar a eficiência dos departamentos envolvidos e fortalecer sua posição no mercado de tecnologia, garantindo um crescimento sustentável e competitivo.
 
 # Funcionalidades e Demonstrações das Sprints
 
