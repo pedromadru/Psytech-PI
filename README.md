@@ -123,8 +123,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
+* Revisão detalhada da análise SWOT.
+* Desenvolvimento e Validaçao.
+* Estrturaçao da Apresentação.
+* Revisão e Otimização.
 
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
