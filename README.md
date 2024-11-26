@@ -47,37 +47,6 @@ Sprint | Previsão | Status| Histórico|
 # Objetivo do Projeto
 O objetivo deste trabalho é analisar a estrutura e organização da empresa PsyTech, especializada na fabricação e comercialização de dispositivos móveis, com foco na identificação de possíveis falhas e inconsistências nos processos internos, gestão de recursos e comunicação organizacional. A partir dessa análise, o trabalho visa propor soluções e melhorias que possam otimizar a operação da empresa, aprimorar a eficiência dos departamentos envolvidos e fortalecer sua posição no mercado de tecnologia, garantindo um crescimento sustentável e competitivo.
 
-# Funcionalidades e Demonstrações das Sprints
-
-## Sprint 1
->Colocar o vídeo da apresentação
-
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Sprint 2
->Colocar o vídeo da apresentação
-
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-## Sprint 3
->Colocar o vídeo da apresentação
-
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
 
 # Cronograma das Sprints
 
