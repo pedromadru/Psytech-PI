@@ -27,10 +27,6 @@ Sprint | Previsão | Status| Histórico|
 
 > Possíveis status: a fazer, em progresso e concluido
 
-# Micro Certificações
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 # Equipe
 ![psytech imagem](https://github.com/user-attachments/assets/a5fb1610-62dd-4824-a802-e1efb5946fba)
@@ -45,12 +41,6 @@ O objetivo deste trabalho é analisar a estrutura e organização da empresa Psy
 
 
 # Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
 ## Sprint 1 - Concepção
 * Pesquisa Inicial
 * Analise de Mercado
