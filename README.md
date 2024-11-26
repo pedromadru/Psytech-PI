@@ -56,19 +56,23 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
+* Pesquisa Inicial
+* Analise de Mercado
+* SWOT
+* Canva
+  
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+* Previsão de acordo com MarketShare
+* Início da Montagem do Sistema Gerencial
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+* Montagem do Sistema gerencial, a partir dos dados coletados e os fornecidos pelo cliente
       
-## Sprint 4 - Operacionalização
-* Revisão detalhada da análise SWOT.
-* Desenvolvimento e Validaçao.
-* Estrturaçao da Apresentação.
-* Revisão e Otimização.
+## Sprint 4 - Apresentação Final
+* Revisão dos Dados
+* Detalhamento mensal/final
+* Apresentação Final
+
 
 # Competências desenvolvidas
 Durante o desenvolvimento deste trabalho acadêmico, a equipe aprimorou diversas competências essenciais:
