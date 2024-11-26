@@ -138,12 +138,12 @@ Essas competências fortaleceram o aprendizado coletivo e individual, proporcion
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Proatividade | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Criatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Flexibilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em equipe | 
+| Proatividade |
+| Criatividade | 
+| Gestão de tempo |
+| Comunicação | 
+| Flexibilidade | 
 
 </details>
 
