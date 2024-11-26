@@ -120,14 +120,15 @@ Essas competências fortaleceram o aprendizado coletivo e individual, proporcion
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| Excel | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Análise SWOT | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Logística | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Design gráfico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Análise de dados | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Tecnologia/Metodologia | 
+| ---------------------- |
+| Excel | 
+| Power BI | 
+| Power Point | 
+| Análise SWOT | 
+| IA | 
+| Design gráfico | 
+| Análise de dados | 
  
 </details>
 
