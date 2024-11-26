@@ -102,7 +102,19 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 * Revisão e Otimização.
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+> Competências Desenvolvidas pela Equipe
+
+Durante o desenvolvimento deste trabalho acadêmico, a equipe aprimorou diversas competências essenciais:
+
+Trabalho em Equipe: Colaboração eficiente na divisão de tarefas e no cumprimento dos objetivos.
+Comunicação Eficaz: Troca clara de informações, garantindo alinhamento contínuo entre os membros.
+Gestão de Tempo: Planejamento adequado das atividades, respeitando prazos e priorizando tarefas.
+Resolução de Problemas: Capacidade de tomar decisões rápidas e criativas diante de desafios inesperados.
+Desenvolvimento de Habilidades Técnicas: Aperfeiçoamento nas áreas de pesquisa, análise de dados e redação acadêmica.
+Gestão de Conflitos: Resolução construtiva de divergências, mantendo a harmonia e o foco no objetivo.
+Pensamento Crítico: Análise crítica de fontes e dados, garantindo a qualidade do trabalho.
+Autonomia e Proatividade: Responsabilidade individual e antecipação de problemas.
+Essas competências fortaleceram o aprendizado coletivo e individual, proporcionando uma base sólida para futuras experiências profissionais.
 
 ## Hard Skill (saber tecnológico)
 <details>
