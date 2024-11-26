@@ -102,10 +102,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 * Revisão e Otimização.
 
 # Competências desenvolvidas
-> Competências Desenvolvidas pela Equipe
-
-## Competências Desenvolvidas pela Equipe
-
 Durante o desenvolvimento deste trabalho acadêmico, a equipe aprimorou diversas competências essenciais:
 
 1. **Trabalho em Equipe**: Colaboração eficiente na divisão de tarefas e no cumprimento dos objetivos.
