@@ -136,8 +136,8 @@ Essas competências fortaleceram o aprendizado coletivo e individual, proporcion
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
+| Habilidades |
+| ---------------------- | 
 | Trabalho em equipe | 
 | Proatividade |
 | Criatividade | 
