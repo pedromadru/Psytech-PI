@@ -56,7 +56,7 @@ O objetivo deste trabalho é analisar a estrutura e organização da empresa Psy
       
 ## Sprint 3 - Implementação
 * Montagem do Sistema gerencial, a partir dos dados coletados e os fornecidos pelo cliente
-* Relatorio de aprsentação da Equipe
+* Relatorio de apresentação da Equipe
 * Github
       
 ## Sprint 4 - Apresentação Final
@@ -64,6 +64,7 @@ O objetivo deste trabalho é analisar a estrutura e organização da empresa Psy
 * Detalhamento mensal/final
 * Relatorio final
 * Canva
+* Github
 * Apresentação Final
 
 
@@ -173,6 +174,11 @@ Reunião para melhoria da planilha da equipe
 ![Sprint 1](https://github.com/user-attachments/assets/e871819f-fa61-46ae-a3f8-db5c8301da5f)
 
 ![Sprint 2](https://github.com/user-attachments/assets/60c6f7a7-3989-49f7-adfd-f1fbbcbec47b)
+
+![Sprint 3](https://github.com/user-attachments/assets/73e0d0c1-8757-4ecb-93ef-0d8bc6c7c6db)
+
+![Srint 4](https://github.com/user-attachments/assets/b2a7160a-b18e-4fbf-9794-33d00fe357bf)
+
 
 
 </details>
