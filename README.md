@@ -109,7 +109,23 @@ Essas competências fortaleceram o aprendizado coletivo e individual, proporcion
 </details>
 
 ## Tecnologias Utilizadas
-As tecnologias utilizadas neste trabalho de API foram o Excel o foi usado para fazer a planilha gerencial com todos os dados de mercado do nosso produto principal que foi o celular e criar a precificação dos celulares, mostrar a venda de cada aparelho mes a mes com os seus valores respectivamente e criação dos dados de venda de cada aparelho em cada região. O PowerBI foi utilizado para a criação dos graficos de venda e precificação de cada aparelho mes a mes. o Canva foi utilizado para a criação das apresentações de cada Sprint por meios dos seus modelos design de slides.
+**Produto**
+
+Sprint 1
+ * Analise Swot
+ 
+Sprint 2
+ * Previsão de acorod com MarketShare
+ * inicio da Montagem do Sistema Operacional
+
+ Sprint 3 
+  * Montagem do Sistema Gerencial, a partir dos dados fornecidos pelo cliente
+ 
+Sprint 4
+ * Elaboração de um novo Mercado 
+ 
+ 
+  
 
 </details>
 
@@ -145,6 +161,9 @@ Recepção de feedback de cada sprint
 Análise dos comentários do cliente interno
 Reunião com o cliente interno
 Reunião para melhoria da planilha da equipe
+
+# Burdown
+
 
 
 </details>
