@@ -165,7 +165,8 @@ Reunião para melhoria da planilha da equipe
 
 # Burdown
 
-![Sprint 1](https://github.com/user-attachments/assets/92150079-e75a-4df9-81e2-f7bcfc7026c2)
+![Sprint 1](https://github.com/user-attachments/assets/e871819f-fa61-46ae-a3f8-db5c8301da5f)
+
 
 
 </details>
