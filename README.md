@@ -106,41 +106,45 @@ Essas competências fortaleceram o aprendizado coletivo e individual, proporcion
 | Comunicação | 
 | Flexibilidade | 
 
-#tecnologias utilizadas
+</details>
+
+## Tecnologias Utilizadas
 As tecnologias utilizadas neste trabalho de API foram o Excel o foi usado para fazer a planilha gerencial com todos os dados de mercado do nosso produto principal que foi o celular e criar a precificação dos celulares, mostrar a venda de cada aparelho mes a mes com os seus valores respectivamente e criação dos dados de venda de cada aparelho em cada região. O PowerBI foi utilizado para a criação dos graficos de venda e precificação de cada aparelho mes a mes. o Canva foi utilizado para a criação das apresentações de cada Sprint por meios dos seus modelos design de slides.
 
-#backlog 
-1. Planejamento Inicial
-•	Entendimento do tema e requisitos:
-o	Leitura da proposta do trabalho
-o	Identificação do objetivo do trabalho (
-•	Definição do markt shere 
-o	Qual região seria mais importante do mercado 
-o	Criação do volume de vendas
-•	Cronograma inicial:
-o	Estabelecimento de prazos para cada sprint.
-o	Alocação de tarefas entre os integrantes (se em grupo).
-2. Pesquisa e Levantamento de Dados
-•	Revisão bibliográfica:
-o	Identificação de fontes confiáveis para a pesquisa de mercado e onde podemos comprar o celulares
-o	Seleção de referências relevantes.
-•	Coleta de dados pesquisa de mercado:
-o	Análise onde a empresa ira atuar e seus clientes.
-3. Desenvolvimento do Trabalho
-•	Estruturação do conteúdo:
-o	Criação da planilha gerencial onde temos a definição de preços dos aparelhos e detalhamento de valor de cada aparelho 
-•	Planilha inicial e desenvolvimento do mercado:
-o	Inserção dos dados passados pelo o nosso cliente interno o professor Rubens.
-4. Apresentação Final
-•	Preparação do material final:
-o	Criação de slides no Canvas
-•	Entrega:
-o	Apresentação de cada sprint para o cliente interno e para o professor da matéria.  
-5. Pós-entrega
-•	Recepção de feedback de cada sprint:
-o	Análise dos comentários do cliente interno.
-•	Reunião com o cliente interno:
-o	Reunião para melhoria da planilha com o cliente interno
+</details>
+
+## Backlog 
+1. **Planejamento Inicial**:
+Entendimento do tema e requisitos
+Leitura da proposta do trabalho
+Identificação do objetivo do trabalho
+Definição do markt shere 
+Qual região seria mais importante do mercado
+Criação do volume de vendas
+Cronograma inicial
+Estabelecimento de prazos para cada sprint
+Alocação de tarefas entre os integrantes do grupo
+2. **Pesquisa e Levantamento de Dados**
+Revisão bibliográfica
+Identificação de fontes confiáveis para a pesquisa de mercado e onde podemos comprar o celulares
+Seleção de referências relevantes
+Coleta de dados pesquisa de mercado
+Análise onde a empresa ira atuar e seus clientes
+3. **Desenvolvimento do Trabalho**
+Estruturação do conteúdo
+Criação da planilha gerencial onde temos a definição de preços dos aparelhos e detalhamento de valor de cada aparelho
+Planilha inicial e desenvolvimento do mercado
+Inserção dos dados passados pelo o nosso cliente interno o professor Rubens
+4. **Apresentação Final**
+Preparação do material final
+Criação de slides no Canvas
+Entrega
+Apresentação de cada sprint para o cliente interno e para o professor da matéria  
+5. **Pós-entrega**
+Recepção de feedback de cada sprint
+Análise dos comentários do cliente interno
+Reunião com o cliente interno
+Reunião para melhoria da planilha da equipe
 
 
 </details>
