@@ -115,15 +115,16 @@ Sprint 2
 Sprint 4
  * Elaboração de um novo Mercado
    
-##Tecnológias Específicas/Apoio
-*Excel
-*Power BI
-*PowerPoint
-*Canva
-*Microsoft Teams
-*Git Projects
-*Scrum
-*Brainstorm
+**Tecnológias Específicas/Apoio**
+
+* Excel
+* Power BI
+* PowerPoint
+* Canva
+* Microsoft Teams
+* Git Projects
+* Scrum
+* Brainstorm
  
   
 
