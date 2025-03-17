@@ -69,7 +69,7 @@ O objetivo deste trabalho é analisar a estrutura e organização da empresa Psy
 * Apresentação Final
 
 * ## Sprint 5 - Atualizaçao de novos dados 2025
-* Revisão de dados
+* Analise Swot
 * Montagem do Sistema gerencial
 * Apresentaçao final dos dados 
 *
