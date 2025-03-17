@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 |02|  15/10/2024| concluido|[Ver Sprint](https://fatecspgov-my.sharepoint.com/:f:/g/personal/pedro_prado8_fatec_sp_gov_br/EspElcxl3udAu_jEEcKTa7kBCjG_4pcoC8oCRrBTAFVDCw?e=p4Q1sb****) | 
 |03| 05/11/2024 | concluído|[Ver Sprint](https://fatecspgov-my.sharepoint.com/:f:/g/personal/pedro_prado8_fatec_sp_gov_br/EmLRVIXo2LRGhHEUeidRJGEBz7KUQdREIxDjG3wcRfmhfw?e=1jEelS) | 
 |04| 29/11/2024 | concluido |[Ver Sprint](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|05| 17/03/2025 | concluido|.[ver sprint](https://fatecspgov.sharepoint.com/:x:/r/sites/Grupo2jogosdeempresaPSYTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B40eae330-0cf8-4eea-90b6-26c572778f00%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1742250632707&web=1) |
+|05| 17/03/2025 | concluido|[Ver sprint](https://fatecspgov.sharepoint.com/:x:/r/sites/Grupo2jogosdeempresaPSYTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B40eae330-0cf8-4eea-90b6-26c572778f00%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1742250632707&web=1) |
 
 > Possíveis status: a fazer, em progresso e concluido
 
