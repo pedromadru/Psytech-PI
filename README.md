@@ -68,6 +68,11 @@ O objetivo deste trabalho é analisar a estrutura e organização da empresa Psy
 * Github
 * Apresentação Final
 
+* ## Sprint 5 - Atualizaçao de novos dados 2025
+* Revisão de dados
+* Montagem do Sistema gerencial
+* Apresentaçao final dos dados 
+*
 
 # Competências desenvolvidas
 Durante o desenvolvimento deste trabalho acadêmico, a equipe aprimorou diversas competências essenciais:
