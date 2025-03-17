@@ -125,7 +125,12 @@ Sprint 2
   * Montagem do Sistema Gerencial, a partir dos dados fornecidos pelo cliente
  
 Sprint 4
- * Elaboração de um novo Mercado
+* Elaboração de um novo Mercado
+
+Sprint 5
+* Analise swot
+* elaboração dos dados
+
    
 **Tecnológias Específicas/Apoio**
 
