@@ -27,6 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |03| 05/11/2024 | concluído|[Ver Sprint](https://fatecspgov-my.sharepoint.com/:f:/g/personal/pedro_prado8_fatec_sp_gov_br/EmLRVIXo2LRGhHEUeidRJGEBz7KUQdREIxDjG3wcRfmhfw?e=1jEelS) | 
 |04| 29/11/2024 | concluido |[Ver Sprint](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |05| 17/03/2025 | concluido|[Ver sprint](https://fatecspgov.sharepoint.com/:x:/r/sites/Grupo2jogosdeempresaPSYTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B40eae330-0cf8-4eea-90b6-26c572778f00%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1742250632707&web=1) |
+|06| 23/06/2025 | concluido|[Ver sprint](https://fatecspgov.sharepoint.com/:x:/r/sites/Grupo2jogosdeempresaPSYTECH/Shared%20Documents/General/2025/planilha%20gerencial%202.%201.xlsx?d=w40eae3300cf84eea90b626c572778f00&csf=1&web=1&e=FDzgbJ)
 
 > Possíveis status: a fazer, em progresso e concluido
 
